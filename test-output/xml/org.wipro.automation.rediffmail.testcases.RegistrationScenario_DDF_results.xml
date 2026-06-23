@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.274">
+    <properties></properties>
+
+
+
+            <testcase
+                name="tc001_registration_validation_valid_Credentials"
+                time="1.532"
+                classname="org.wipro.automation.rediffmail.testcases.RegistrationScenario_DDF">
+            </testcase>
+            <testcase
+                name="tc001_registration_validation_valid_Credentials"
+                time="1.386"
+                classname="org.wipro.automation.rediffmail.testcases.RegistrationScenario_DDF">
+            </testcase>
+            <testcase
+                name="tc001_registration_validation_valid_Credentials"
+                time="1.356"
+                classname="org.wipro.automation.rediffmail.testcases.RegistrationScenario_DDF">
+            </testcase>
+</testsuite>
